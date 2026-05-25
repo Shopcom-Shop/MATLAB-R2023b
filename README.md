@@ -14,6 +14,12 @@ https://www.shopcom.tn/product/matlab-r2023b/
 
 Product Price : 2,153 $
 
+Payment :
+https://www.shopcom.tn/payment
+
+Website :
+https://www.shopcom.tn
+
 Description :
 
 MATLAB R2023b is a major release from MathWorks, focusing on productivity, artificial intelligence (AI) integration, and interoperability. It introduces powerful new ways to interact with code, accelerates AI development, and enhances connections with other programming languages and frameworks.
